@@ -9,7 +9,7 @@
     "geom:bbox":"-99.060981,34.83735,-97.82538,35.378433",
     "geom:latitude":35.101466,
     "geom:longitude":-98.405366,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":3744459978.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 56",
     "uscensus:sldlst":"056",
     "uscensus:statefp":"40",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688585
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487874,
     "wof:geomhash":"bd6e6b0dada252a8aff4f80036c89226",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
     "wof:id":1108772025,
     "wof:lastmodified":1481487874,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688585,
     "wof:repo":"whosonfirst-data-constituency-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],

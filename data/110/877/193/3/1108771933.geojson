@@ -9,7 +9,7 @@
     "geom:bbox":"-95.60891,35.010441,-94.62191,35.638894",
     "geom:latitude":35.280438,
     "geom:longitude":-95.119304,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":3308824711.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 15",
     "uscensus:sldlst":"015",
     "uscensus:statefp":"40",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688585
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487854,
     "wof:geomhash":"60185c87d32c0e0b3a26aada99001985",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
     "wof:id":1108771933,
     "wof:lastmodified":1481487854,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688585,
     "wof:repo":"whosonfirst-data-constituency-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-96.091315,36.14058,-95.88641,36.250012",
     "geom:latitude":36.201267,
     "geom:longitude":-95.995956,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":165426636.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 11",
     "uscensus:sldust":"011",
     "uscensus:statefp":"40",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688585
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487896,
     "wof:geomhash":"93a1fd29709960043710e79ffed79b3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
     "wof:id":1108772151,
     "wof:lastmodified":1481487896,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688585,
     "wof:repo":"whosonfirst-data-constituency-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-94.979293,35.29121,-94.43101,35.638827",
     "geom:latitude":35.485456,
     "geom:longitude":-94.691191,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1433594504.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 2",
     "uscensus:sldlst":"002",
     "uscensus:statefp":"40",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688585
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487848,
     "wof:geomhash":"84924ec31c0c9b50480daf6c1a2df1da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
     "wof:id":1108771903,
     "wof:lastmodified":1481487848,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688585,
     "wof:repo":"whosonfirst-data-constituency-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],

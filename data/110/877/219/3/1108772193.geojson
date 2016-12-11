@@ -9,7 +9,7 @@
     "geom:bbox":"-97.67151,35.469214,-97.54027,35.610085",
     "geom:latitude":35.527456,
     "geom:longitude":-97.608591,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":55398521.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 30",
     "uscensus:sldust":"030",
     "uscensus:statefp":"40",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688585
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487902,
     "wof:geomhash":"714e1460c3d84ce4feb834b4af12727b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
     "wof:id":1108772193,
     "wof:lastmodified":1481487902,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688585,
     "wof:repo":"whosonfirst-data-constituency-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],

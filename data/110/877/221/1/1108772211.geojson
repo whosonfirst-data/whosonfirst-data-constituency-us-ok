@@ -9,7 +9,7 @@
     "geom:bbox":"-100.000479,34.337762,-98.61791,35.568763",
     "geom:latitude":34.947076,
     "geom:longitude":-99.261526,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":10752844410.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 38",
     "uscensus:sldust":"038",
     "uscensus:statefp":"40",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688585
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487904,
     "wof:geomhash":"70924db680ffc544b1b1bc6c358ed28a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
     "wof:id":1108772211,
     "wof:lastmodified":1481487904,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688585,
     "wof:repo":"whosonfirst-data-constituency-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],

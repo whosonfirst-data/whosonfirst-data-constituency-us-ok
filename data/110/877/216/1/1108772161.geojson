@@ -9,7 +9,7 @@
     "geom:bbox":"-97.48562,34.927417,-97.14183,35.23298",
     "geom:latitude":35.075197,
     "geom:longitude":-97.290923,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":494596841.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 16",
     "uscensus:sldust":"016",
     "uscensus:statefp":"40",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688585
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487897,
     "wof:geomhash":"b5b3b9c99474cd20c8152d97583b81ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
     "wof:id":1108772161,
     "wof:lastmodified":1481487897,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688585,
     "wof:repo":"whosonfirst-data-constituency-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-96.30544,33.75326,-94.93739,34.681148",
     "geom:latitude":34.262033,
     "geom:longitude":-95.624009,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":8398715736.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 19",
     "uscensus:sldlst":"019",
     "uscensus:statefp":"40",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688585
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487856,
     "wof:geomhash":"5aa5f5f2184d327ca942776a2cdf4d31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
     "wof:id":1108771941,
     "wof:lastmodified":1481487856,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688585,
     "wof:repo":"whosonfirst-data-constituency-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-98.54502,36.164462,-97.24664,36.999085",
     "geom:latitude":36.639817,
     "geom:longitude":-97.916283,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":7991516411.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 19",
     "uscensus:sldust":"019",
     "uscensus:statefp":"40",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688585
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487898,
     "wof:geomhash":"bf90633ce4a6b40b4b6e2cfdc2898b9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
     "wof:id":1108772169,
     "wof:lastmodified":1481487898,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688585,
     "wof:repo":"whosonfirst-data-constituency-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
